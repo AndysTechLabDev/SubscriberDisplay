@@ -34,7 +34,7 @@ The device connects to Wi-Fi, retrieves YouTube channel statistics using the You
 ---
 ## Youtube Video
 
-* Make sure to check out the video for this project!
+* Make sure to check out the [video](https://youtu.be/77pNLjQWU8E) for this project!
 
 ---
 ## Hardware
@@ -50,7 +50,7 @@ The device connects to Wi-Fi, retrieves YouTube channel statistics using the You
 ---
 ## 3D Printed Parts
 
-* Printables
+* [Printables](https://www.printables.com/model/1859082-esp32-c3-subscriber-counter)
 
 ---
 ## Wiring
